@@ -4,19 +4,12 @@
   }
 
 
-
-.container-fluid  ul {
-    list-style: none;
-    float: right;
-    text-align: center; 
-    
-}
-
 .container-fluid li {
     float: right;
+    margin-top: .4em;
     margin-right: .25em;
-    height: 3em;
-    line-height: 3em;
+    /* height: 3em;
+    line-height: 3em; */
 }
 
 .panel-heading {
@@ -27,4 +20,12 @@
 
 .panel-body img{
     width: 100%
+}
+
+#connect {
+    text-align: center;
+}
+
+#connect a{
+    text-decoration: none;
 }
