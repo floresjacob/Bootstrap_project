@@ -1,0 +1,77 @@
+.container-fluid  ul {
+    list-style: none;
+    float: right;
+    text-align: center; 
+    
+}
+
+.container-fluid li {
+    float: right;
+    margin-right: .25em;
+    height: 3em;
+    line-height: 3em;
+}
+
+#home {
+    font-size: 15px;
+    color: grey;
+    line-height: 145%;
+    position: absolute;
+    border-top: solid 2px lightgrey;
+    padding-top: 12px;
+    width: 90%;
+    height: 77%;
+    bottom: 10px;
+}
+
+#home img {
+    text-align: center;
+    width: 70%;
+    height: auto;
+    padding: 5px;
+    margin-right: 2px;
+}
+
+#home_header {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    font-size: 30px;
+    font-weight: bold;
+    height: 80px;
+    line-height: 80px;
+    float: left;
+    text-decoration: none;
+}
+
+#aside {    
+    background-color: white;
+    position: relative;
+    width: 17%;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 100px;
+}
+
+#aside a {
+    color: black;
+    text-decoration: none;
+}
+
+#connect {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+    border-bottom: solid .5px lightgrey;
+    padding-bottom: 10px;
+}
+
+#icon {
+    float: left;
+    margin-top: 9px;
+    margin-left: 7px;
+}
